@@ -1,0 +1,53 @@
+# Environment variables (NEVER commit sensitive data!)
+.env
+.env.local
+.env.*.local
+
+# Python virtual environments
+venv/
+.venv/
+jarvis_env/
+ENV/
+Jarvis/Lib/
+Jarvis/Scripts/
+Jarvis/pyvenv.cfg
+
+# Database files (auto-generated)
+Jarvis/memory.db
+Jarvis/soul_engine.db
+Jarvis/user_profile.db
+Jarvis/features/ai_cache.json
+
+# Binary & large files
+wheels/
+driver/
+
+# Sensitive config
+config.py
+credentials.json
+*.pickle
+*note.txt
+
+# IDE, cache, logs
+References/
+.continue/
+.vscode/
+.idea/
+__pycache__/
+experiments/
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
+*.png
+*.mp4
+*dbs.txt
+.ipynb_checkpoints
+*.ipynb
+.pytest_cache/
+.coverage
+htmlcov/
+*.key
+*.pem
+*.pfx

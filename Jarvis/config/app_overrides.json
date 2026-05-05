@@ -1,0 +1,15 @@
+{
+  "_comment": "Custom app path overrides - add your own mappings here",
+  "_examples": [
+    "Use file paths: 'myapp': 'C:/Program Files/MyApp/myapp.exe'",
+    "Use UWP apps: 'myapp': 'appx:MyCompany.MyApp'",
+    "Use commands: 'myapp': 'myapp.exe' (must be in PATH)"
+  ],
+  "_instructions": "Edit this file to add custom app mappings. Jarvis will check these FIRST before searching the system.",
+  
+  "examples_below": "Uncomment and customize these for your setup",
+  
+  "vs code": "C:/Users/vishwa nuwan/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+  "obs": "C:/Program Files/obs-studio/bin/64bit/obs64.exe",
+  "photoshop": "C:/Program Files/Adobe/Adobe Photoshop 2024/Photoshop.exe"
+}
