@@ -5,7 +5,7 @@
 JARVIS is a feature-rich, AI-powered voice assistant for Windows built with Python. It combines voice recognition, natural language processing, emotional intelligence, and a self-learning "Soul Engine" to deliver a truly interactive and personalized assistant experience.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](LICENSE)
 
 ---
 
@@ -379,5 +379,6 @@ Key dependencies (see `requirements.txt` for full list):
 
 ##  License
 
-This project is licensed under the MIT License.
+Copyright (c) 2026 Vishwa Nuwan. All rights reserved.
+See the [LICENSE](LICENSE) file for details.
 
